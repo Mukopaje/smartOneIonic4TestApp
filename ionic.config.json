@@ -1,5 +1,7 @@
 {
   "name": "testSmartOnePrinter",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
